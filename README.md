@@ -624,7 +624,9 @@ This software is provided for educational and defensive security purposes only. 
 - **Documentation**: [docs/](docs/)
 - **Issues**: [GitHub Issues](https://github.com/agent-bounty/attacker-personas/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/agent-bounty/attacker-personas/discussions)
-- **Security**: security@agent-bounty.com
+- **Security**: security@agentbounty.ai
+- **See our platform in action**:  https://agentbounty.ai
+- **Developed by Agent Bounty Team**: Wil, Ali, Mitul, & Usama
 
 ## Acknowledgments
 

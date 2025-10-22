@@ -34,6 +34,9 @@ agent_bounty/
 │   └── red_team_agent_v2.py   # Persona-driven attack execution
 └── api/                        # FastAPI endpoints
     └── personas_controller.py  # REST API for persona management
+
+<img width="6348" height="1423" alt="Untitled diagram-2025-10-22-224511" src="https://github.com/user-attachments/assets/9d3feb4c-9595-4dba-b2a9-793f378f19cb" />
+
 ```
 
 ## Quick Start

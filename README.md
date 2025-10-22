@@ -30,6 +30,13 @@ The Attacker Personas Library provides comprehensive threat actor simulation wit
 - **Compliance Reporting**: Full MITRE ATT&CK technique mapping for security assessments
 - **Scalable Architecture**: Supports new MITRE groups automatically as they're added to the framework
 
+## System Architecture
+
+<div align="center">
+  <img src="assets/images/system-architecture.png" alt="High-Level System Architecture" width="800">
+  <p><em>High-Level System Architecture - Complete Integration Flow</em></p>
+</div>
+
 ## Architecture
 
 ```
@@ -47,7 +54,19 @@ agent_bounty/
 
 ```
 
+## Data Model & Relationships
+
+<div align="center">
+  <img src="assets/images/data-model-relationships.png" alt="Data Model & Relationships" width="800">
+  <p><em>Data Model & Relationships - Core System Data Architecture</em></p>
+</div>
+
 ## Quick Start
+
+<div align="center">
+  <img src="assets/images/user-journey.png" alt="Complete End-to-End User Journey" width="800">
+  <p><em>Complete End-to-End User Journey - From Setup to Attack Execution</em></p>
+</div>
 
 ### Installation
 
@@ -125,6 +144,11 @@ The Attacker Personas Library provides comprehensive threat actor simulation cap
 
 ### Multi-Tier Implementation Strategy
 
+<div align="center">
+  <img src="assets/images/behavioral-inference-engine.png" alt="Behavioral Inference Engine Detail" width="800">
+  <p><em>Behavioral Inference Engine Detail - Advanced Intelligence Analysis</em></p>
+</div>
+
 **Tier 1: Premium Personas (10 groups)**
 - Hand-researched behavioral characteristics
 - Sophistication levels, stealth preferences, attack speeds
@@ -169,6 +193,11 @@ custom = library.create_custom_persona("Custom APT", base_persona="APT41")
 ### Automated Behavioral Inference
 
 The system includes advanced algorithms that analyze MITRE data to automatically generate sophisticated behavioral characteristics:
+
+<div align="center">
+  <img src="assets/images/persona-generation-flow.png" alt="Persona Generation Flow" width="800">
+  <p><em>Persona Generation Flow - Intelligent Auto-Generation Process</em></p>
+</div>
 
 **Intelligence Analysis Engine:**
 - **Sophistication Detection**: Nation-state indicators, technique complexity, custom malware usage
@@ -340,6 +369,11 @@ POST /api/v1/personas/mitre/refresh
 ```
 
 ## Attack Scenarios
+
+<div align="center">
+  <img src="assets/images/attack-campaign-flow.png" alt="Attack Campaign Execution Flow" width="800">
+  <p><em>Attack Campaign Execution Flow - Persona-Driven Attack Orchestration</em></p>
+</div>
 
 ### Full Kill Chain
 Complete cyber attack simulation following MITRE ATT&CK tactics:

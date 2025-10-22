@@ -1,8 +1,18 @@
-# Agent Bounty - Attacker Personas Library
+<div align="center">
+  <img src="assets/images/agent-bounty-logo.png" alt="Agent Bounty Logo" width="400">
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-v14.1-red.svg)](https://attack.mitre.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+  # Agent Bounty - Attacker Personas Library
+
+  [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+  [![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-v14.1-red.svg)](https://attack.mitre.org/)
+  [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+  **Production-ready attacker personas library for Agent Bounty's autonomous security testing platform**
+
+  [Website](https://agentbounty.ai) • [Documentation](docs/) • [Issues](https://github.com/AgentBounty/attacker-personas/issues) • [Discussions](https://github.com/AgentBounty/attacker-personas/discussions)
+</div>
+
+---
 
 Production-ready attacker personas library for Agent Bounty's autonomous security testing platform. This library enables Red Team agents to simulate real-world Advanced Persistent Threat (APT) groups using authentic MITRE ATT&CK framework data.
 

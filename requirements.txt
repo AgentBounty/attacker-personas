@@ -1,0 +1,93 @@
+# Core Python dependencies for Attacker Personas Library
+# For Agent Bounty - Autonomous Security Testing Platform
+
+# Web framework and API
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+
+# HTTP requests and data handling
+requests>=2.31.0
+python-dateutil>=2.8.2
+
+# STIX 2.1 parsing
+stix2>=3.0.1
+
+# Configuration and serialization
+pyyaml>=6.0.1
+
+# Testing framework
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.12.0
+pytest-cov>=4.1.0
+
+# Security testing and analysis
+python-nmap>=0.7.1
+cryptography>=41.0.0
+
+# Data analysis and visualization (optional)
+pandas>=2.1.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Logging and monitoring
+structlog>=23.2.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+
+# Development tools
+black>=23.9.0
+flake8>=6.1.0
+mypy>=1.6.0
+isort>=5.12.0
+
+# Documentation
+mkdocs>=1.5.0
+mkdocs-material>=9.4.0
+
+# Database (if persistence is needed)
+sqlalchemy>=2.0.0
+alembic>=1.12.0
+psycopg2-binary>=2.9.0
+
+# Cloud integration (for GCP deployment)
+google-cloud-storage>=2.10.0
+google-cloud-bigquery>=3.13.0
+
+# Background tasks
+celery>=5.3.0
+redis>=5.0.0
+
+# Security utilities
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+
+# Rate limiting and API management
+slowapi>=0.1.9
+
+# HTTP client improvements
+httpx>=0.25.0
+aiohttp>=3.9.0
+
+# JSON schema validation
+jsonschema>=4.19.0
+
+# Time handling
+arrow>=1.3.0
+
+# Process management
+psutil>=5.9.0
+
+# Network utilities
+ipaddress>=1.0.23
+netaddr>=0.10.0
+
+# File handling
+pathlib2>=2.3.7
+
+# Async support
+asyncio>=3.4.3
+aiofiles>=23.2.1
